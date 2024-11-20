@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Atlanta",
+		"id": "c50d43dd-37b7-43d8-9109-bab1a7ecbc45"
+	},
+	{
+		"name": "Baltimore",
+		"id": "ee0fb9bc-e62f-4e52-8323-6a9744929dea"
+	},
+	{
+		"name": "Minnesota",
+		"id": "75d01667-42d0-4e3c-b394-a9562909ad4a"
+	},
+	{
+		"name": "Alaska",
+		"id": "cf97862b-cfdb-47f0-a942-e6da4aaa429f"
+	},
+	{
+		"name": "Winnipeg",
+		"id": "1c938539-78f1-4ab6-8819-41264a5a4dc3"
+	}
+]
